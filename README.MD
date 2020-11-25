@@ -10,6 +10,7 @@ Enter an image and find the outline of it.
 
 ![after](https://i.imgur.com/B6oJym2.png)
 
+![other granularity](https://i.imgur.com/7VZ9lDN.png)
 
 ```javascript
 import * as Outline from './outline.mjs';
